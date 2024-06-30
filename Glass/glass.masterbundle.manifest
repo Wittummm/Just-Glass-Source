@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 3917527901
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4b13680eaabd8a5dbabce46bf94d0064
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d643481570a9f8f6428fd7c597df2192
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4b13680eaabd8a5dbabce46bf94d0064
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: bc5dcd01db1ebec4d8f143d933b00964, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+Assets:
+- Assets/MyMods/Glass/Bundles/Objects/Medium/GlassPlaneMedium/Object.prefab
+- Assets/MyMods/Glass/Bundles/Objects/Medium/GlassPlaneLow/Object.prefab
+- Assets/MyMods/Glass/Bundles/Objects/Medium/GlassCubeLow/Object.prefab
+- Assets/MyMods/Glass/Bundles/Objects/Medium/GlassCubeMedium/Object.prefab
+Dependencies: []
